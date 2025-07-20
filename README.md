@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Gabriel 👋</h1>
+<h1 align="center">Hi, I'm Gabriel(TekMoral) 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Mentor | Digital Architect</b><br>
@@ -52,7 +52,7 @@ I create intuitive user interfaces that engage and captivate, while developing b
 
 
 ### 🎓 Mentorship
-I offer mentorship for beginners and career-switchers who are serious about learning full-stack development. I help students go from complete beginner to professional developers.
+I offer mentorship for beginners and career switchers who are serious about learning full-stack development. I help students go from complete beginner to professional developers.
 
 ---
 
