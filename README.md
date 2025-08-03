@@ -1,20 +1,6 @@
 
-<!--
-**LUMMYGEE/LUMMYGEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi, I'm Gabriel(TekMoral) 👋</h1>
+<h1 align="center">Hi, I'm Gabriel (TekMoral) 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Mentor | Digital Architect</b><br>
@@ -26,7 +12,9 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 I'm a Full-Stack Developer who transforms ideas into powerful, scalable web applications. From client-side innovation to server-side architecture, I specialize in building comprehensive digital solutions that not only work — they *excel*.
+
 I create intuitive user interfaces that engage and captivate, while developing backend systems that are robust, elegant, and designed to scale. My focus? Delivering code that performs, adapts, and grows with your business.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -42,16 +30,19 @@ I create intuitive user interfaces that engage and captivate, while developing b
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
 - 🔭 I’m currently working on **Blissbay** — an ambitious e-commerce platform designed to replicate and improve upon 75% of JUMIA’s core features. From advanced product filtering and seamless cart experiences to secure user authentication and vendor management, Blissbay is a full-scale, scalable solution built with modern web technologies. My goal is to demonstrate what’s possible with the right stack, solid architecture, and a strong developer mindset.
 
+---
 
 ### 🎓 Mentorship
+
 I offer mentorship for beginners and career switchers who are serious about learning full-stack development. I help students go from complete beginner to professional developers.
 
 ---
@@ -60,4 +51,3 @@ I offer mentorship for beginners and career switchers who are serious about lear
 
 - 🔗 [GitHub](https://github.com/LUMMYGEE)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-adewale-a54b1229a/)  
-
